@@ -12,3 +12,7 @@ Step 3: Copy everything that is in `developertrue.txt` and paste it into the Con
 Step 4: Now, go to your User Settings and look for `Experiments` at the bottom. And type in `Powermode` and click on `Treatment 1`.
 
 Step 5: Go back to your Discord and go back to your User Settings, and there you will find Party Mode! Enable it, and your good to go!
+
+More detailed video:
+https://user-images.githubusercontent.com/103331994/171460933-99380737-1c67-4f61-8d28-d246dc2f1786.mp4
+
